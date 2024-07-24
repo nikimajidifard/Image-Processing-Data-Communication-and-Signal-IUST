@@ -21,3 +21,7 @@ Convert the image from the previous step to a black-and-white image using MATLAB
 Add noise to the image so that the Signal-to-Noise Ratio (SNR) is 6 dB.
 Research the concept of SNR and explain your findings.
 Denoise the image and use a metric to show how well the denoising process worked. Apply this metric to the noisy, denoised, and original images to obtain the values.
+     <img src="https://github.com/user-attachments/assets/edbbfd9f-8d89-439f-a335-f2519bd63113" width="150" height="150"/>
+     <img src="https://github.com/user-attachments/assets/40d3e448-58a2-489c-8b17-d9d7e8142949" width="300" height="150"/>
+
+
