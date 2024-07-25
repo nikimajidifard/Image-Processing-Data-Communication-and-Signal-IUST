@@ -32,7 +32,7 @@ Denoise the image and use a metric to show how well the denoising process worked
 ● Research the imtool function in MATLAB and include 2 applications of it along with screenshots of the tasks you performed using it in your report.
 ● What function can be used to save image information? Use it to save your image information.
 
-2. Image Processing
+3. Image Processing
 ● How can you enhance the contrast of images in MATLAB? Explain and enhance the contrast of the image loaded in the previous step and save the resulting image in JPEG format using the imwrite function.
 ● What function can be used to make the image more precise and clearer? Use it to make the details of your image clearer.
 ● Binarize your image and research its relationship with the threshold.
