@@ -37,7 +37,7 @@ Denoise the image and use a metric to show how well the denoising process worked
 - What function can be used to make the image more precise and clearer? Use it to make the details of your image clearer.
 - Binarize your image and research its relationship with the threshold.
 
-3.Image Quality
+3. Image Quality
 - Use the imresize function to double the dimensions of your image.
 - Research the concept of resolution or pixel resolution and based on your findings, increase the pixel resolution of the original image by 4 times and reduce its dimensions by half.
 - What is image quantization? Use the relevant commands to set the quantization levels of your image to 70, 20, and 140 and describe the differences.
